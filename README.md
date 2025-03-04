@@ -11,7 +11,7 @@
 ✅ **مجازی‌سازی سرور و راهکارهای ابری** | Server virtualization & cloud solutions  
 ✅ **خودکارسازی و فناوری‌های متن‌باز** | Automation & open-source technologies  
 
-## 📖 در حال یادگیری | **Currently Learning**  
+## 📖 در حال بروز رسانی | **Currently Updating**  
 🔹 **MikroTik، MTCNA، CCNA** | MikroTik, MTCNA, CCNA  
 🔹 **مدیریت لینوکس و اسکریپت‌نویسی شل** | Linux administration & shell scripting  
 🔹 **مجازی‌سازی با VMware و ESXi** | VMware & ESXi virtualization  
@@ -22,7 +22,7 @@
 🔸 **امنیت و بهینه‌سازی سرور** | Server security & optimization  
 
 ## 📡 ارتباط با من | **Get in Touch**  
-🎥 [یوتیوب](https://www.youtube.com/@tehrannetwork021) | [YouTube](https://www.youtube.com/@tehrannetwork021)  
+🎥 [یوتیوب](https://www.youtube.com/@tehran.network021) | [YouTube](https://www.youtube.com/@tehran.network021)  
 ✉️ [تلگرام](https://t.me/tehrannetwork021) | [Telegram](https://t.me/tehrannetwork021)  
 
 ---  
